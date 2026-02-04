@@ -57,32 +57,6 @@ DSC-Bi-Weekly-Challenge/
 └── README.md                   # This file
 ```
 
-## 🏆 Challenges
-
-### Challenge #1
-**Topic:** [Add Challenge Title]
-- **Description:** [Brief description of the challenge]
-- **Dataset:** [Dataset information]
-- **Key Techniques:** Data cleaning, EDA, visualization
-- **Results:** [Summary of results or key findings]
-
-![Challenge 1 Visualization](Outputs_DSC%231/figures/example_plot.png)
-*Example visualization from Challenge 1*
-
----
-
-### Challenge #2
-**Topic:** [Add Challenge Title]
-- **Description:** [Brief description of the challenge]
-- **Dataset:** [Dataset information]
-- **Key Techniques:** Feature engineering, modeling, evaluation
-- **Results:** [Summary of results or key findings]
-
-![Challenge 2 Visualization](Outputs_DSC%232/figures/example_plot.png)
-*Example visualization from Challenge 2*
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
